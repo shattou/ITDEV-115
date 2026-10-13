@@ -1,0 +1,13 @@
+coffee
+Brown Sugar, 0.25
+honey, 0.10
+**
+
+sandwich
+Bacon, 0.59
+Bggs, 0.25
+**
+
+pastries
+Cake Pops, 1.50
+Cupcakes, 1.50

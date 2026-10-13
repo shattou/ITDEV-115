@@ -1,0 +1,32 @@
+Alex
+Example
+100 Example Lane
+Example City
+WI
+00000
+202-555-0101
+alex@example.com
+Jamie
+Sample
+200 Example Lane
+Example City
+WI
+00000
+202-555-0102
+jamie@example.com
+Taylor
+Demo
+300 Example Lane
+Example City
+WI
+00000
+202-555-0103
+taylor@example.com
+Morgan
+Test
+400 Example Lane
+Example City
+WI
+00000
+202-555-0104
+morgan@example.com

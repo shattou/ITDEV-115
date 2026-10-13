@@ -1,0 +1,25 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.17
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MagicPC", "MagicPC.csproj", "{D4DC984E-5A24-436E-86A8-FA99D98BD975}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4DC984E-5A24-436E-86A8-FA99D98BD975}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{D4DC984E-5A24-436E-86A8-FA99D98BD975}.Debug|anycpu.Build.0 = Debug|anycpu
+		{D4DC984E-5A24-436E-86A8-FA99D98BD975}.Release|anycpu.ActiveCfg = Release|anycpu
+		{D4DC984E-5A24-436E-86A8-FA99D98BD975}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3616B01F-88B2-4105-8306-5DC399C4682C}
+	EndGlobalSection
+EndGlobal
